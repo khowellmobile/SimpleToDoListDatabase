@@ -18,6 +18,8 @@ It also supports the begining infrastructure of a login system and funtionality 
 - Users should be able to add to-do items under a ToDo List ( eg, Home { cut lawn, clean kitchen, walk dog, ... } )
 - Users should be able to Update/Delete to-do items (optional: consider the ability to move a to-do item from one list to another)
 
+![ERD](ToDoListDBERD.drawio.pdf)
+
 ## Authors
 
 Contributors names and contact info
