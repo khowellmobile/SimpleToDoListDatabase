@@ -20,7 +20,7 @@ It also supports the begining infrastructure of a login system and funtionality 
 
 ## Entity Relationship Diagram
 
-![Entity Relationship Diagram](CSE385ToDo_ERD.png)
+![Entity Relationship Diagram](CSE385ToDo_ERD (2).png)
 
 ## Authors
 
