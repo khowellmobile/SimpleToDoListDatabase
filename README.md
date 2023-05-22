@@ -4,7 +4,7 @@ A database to be used for a simple To Do List Application
 
 ## Description
 
-The script included can be used to create a data base for a simple To Do List Application. The database supports adding, updating, and deleting users, lists, and tasks.
+The [script] (ToDoListDBScript.sql) included can be used to create a data base for a simple To Do List Application. The database supports adding, updating, and deleting users, lists, and tasks.
 It also supports the begining infrastructure of a login system and funtionality to store error information in a seperate table.
 
 ## Project Requirements
