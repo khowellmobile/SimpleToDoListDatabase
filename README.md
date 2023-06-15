@@ -1,4 +1,4 @@
-# SimpleToDoListDatabase
+# To Do List Database
 
 A database to be used for a simple To Do List Application
 
